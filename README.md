@@ -15,6 +15,7 @@ The 6Companies30Days Challenge is a 30-day coding challenge created by [Arsh Goy
 ## Resources
 
 - [6Companies30Days Challenge YouTube video](https://youtu.be/QUnaBYKQkZU)
+- [Problem set Google document](https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 
